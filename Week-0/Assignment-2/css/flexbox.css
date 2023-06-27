@@ -1,0 +1,17 @@
+/* Flexbox */
+.function,
+.like-comment,
+.comments {
+  display: flex;
+}
+#icon-red {
+  margin-right: 10px;
+}
+.like-comment,
+.comments {
+  justify-content: space-between;
+}
+#like,
+#comment {
+  align-self: center;
+}

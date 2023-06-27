@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+/* Basic style */
+body {
+  width: 700px;
+  height: 397px;
+  border: 1px solid rgba(211, 211, 211, 0.56);
+  border-radius: 20px;
+}
+.status {
+  width: 409.016px;
+  height: 151px;
+  font-family: "Outfit", sans-serif;
+  margin: 20px 50.98px 41px 40px;
+}
+#post-data {
+  width: 161.582px;
+  height: 76.811px;
+  margin: 0 498.42px 15.38px 0;
+}
+#friend-name {
+  width: 74.367px;
+  height: 58.811px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin: -58.811px 0 0 87.22px;
+}
+#time {
+  width: 63.156px;
+  height: 26px;
+  color: #909090;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 24px;
+  margin: -37.81px 11.21px 11.81px 87.22px;
+}
+#post {
+  width: 409.016px;
+  height: 58.811px;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+}
+.function {
+  width: 630px;
+  height: 50px;
+  border-top: 1px solid #bfbfbf;
+  border-bottom: 1px solid #bfbfbf;
+  margin: 41px 35px 0;
+}
+.like-comment {
+  width: 700px;
+  height: 45px;
+  font-family: "Roboto", sans-serif;
+  color: #5c5c5c;
+  font-size: 16px;
+  font-weight: 300;
+  border-bottom: 1px solid #d9d9d9;
+  margin: 0;
+}
+#like {
+  margin-left: 35px;
+}
+#comment {
+  margin-right: 35px;
+}
+.comments {
+  width: 620px;
+  height: 50px;
+  margin: 20px 40px;
+}
+footer p {
+  width: 555.47px;
+  font-family: "Roboto", sans-serif;
+  color: #777;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  padding: 12px 0;
+  border-radius: 30px;
+  background-color: rgba(217, 217, 217, 0.39);
+  margin: 0;
+}
