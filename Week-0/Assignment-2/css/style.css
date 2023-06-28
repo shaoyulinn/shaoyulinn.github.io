@@ -5,6 +5,7 @@
 body {
   width: 700px;
   height: 397px;
+  box-sizing: content-box;
   border: 1px solid rgba(211, 211, 211, 0.56);
   border-radius: 20px;
 }

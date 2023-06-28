@@ -4,8 +4,9 @@
 .comments {
   display: flex;
 }
-#icon-red {
-  margin-right: 10px;
+#icon-red,
+#icon-gray {
+  margin: 10px 5px;
 }
 .like-comment,
 .comments {
