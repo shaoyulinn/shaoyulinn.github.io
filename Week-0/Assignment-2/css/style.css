@@ -13,7 +13,7 @@ body {
   width: 409.016px;
   height: 151px;
   font-family: "Outfit", sans-serif;
-  margin: 20px 50.98px 41px 40px;
+  margin: 20px 50.98px 39px 40px;
 }
 #post-data {
   width: 161.582px;
@@ -47,9 +47,10 @@ body {
 .function {
   width: 630px;
   height: 50px;
+  box-sizing: content-box;
   border-top: 1px solid #bfbfbf;
   border-bottom: 1px solid #bfbfbf;
-  margin: 41px 35px 0;
+  margin: 39px 35px 0;
 }
 .like-comment {
   width: 700px;
